@@ -1,0 +1,7 @@
+C:\Users\Mi\RiderProjects\N3K0NN\N3K0NN\bin\Debug\N3K0NN.dll
+C:\Users\Mi\RiderProjects\N3K0NN\N3K0NN\bin\Debug\N3K0NN.pdb
+C:\Users\Mi\RiderProjects\N3K0NN\N3K0NN\bin\Debug\IndexRange.dll
+C:\Users\Mi\RiderProjects\N3K0NN\N3K0NN\obj\Debug\N3K0NN.csprojAssemblyReference.cache
+C:\Users\Mi\RiderProjects\N3K0NN\N3K0NN\obj\Debug\N3K0NN.csproj.CopyComplete
+C:\Users\Mi\RiderProjects\N3K0NN\N3K0NN\obj\Debug\N3K0NN.dll
+C:\Users\Mi\RiderProjects\N3K0NN\N3K0NN\obj\Debug\N3K0NN.pdb
